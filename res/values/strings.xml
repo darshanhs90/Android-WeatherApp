@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="bntogglesetting">bntoggleSetting</string>
+    <string name="enable_gps_based_weather_">Enable GPS based Weather?</string>
+    <string name="enter_location">Enter Location</string>
+    <string-array name="planets_array">
+        <item>Home</item>
+        <item>Future Forecast</item>
+        <item>Search using Location</item>
+         <item>Search using Maps</item>
+        <item>About US</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+    </array>
+
+</resources>
